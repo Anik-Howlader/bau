@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
 
 
-       body{
-        background-color:#eee;
-        font-family: "Poppins", sans-serif;
-        font-weight: 300;
-       }
+body {
+    background-color: #eee;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
 
 #map {
     height: 100vh;
@@ -16,9 +16,9 @@
     border: 2px solid #ccc;
     border-radius: 5px;
     box-shadow: 0 1px 15px #0aa0db;
-    padding: 4px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding: 0.5vw;
+    padding-top: .5vw;
+    padding-bottom: .5vw;
     cursor: pointer;
     display: flex;
     flex-direction: row;
@@ -38,8 +38,8 @@
     z-index: 1000;
 }
 
-.search-bar:hover{
-   border-color: black;
+.search-bar:hover {
+    border-color: black;
 
 }
 
@@ -71,6 +71,7 @@
         /* Smaller button */
     }
 }
+
 
 
 
