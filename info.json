@@ -2,8 +2,8 @@
     {
         "start_roll": "1120",
         "end_roll": "2222",
-        "lat": 24.7231,
-        "lng": 90.4353,
+        "lat": 24.723149375870953, 
+        "lng": 90.43841544284108,
         "description": "Building A",
         "image_url": "bau.jpg"
     },
