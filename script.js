@@ -1,14 +1,12 @@
 const map = L.map('map').setView([24.7234, 90.4353], 15);
-const normalLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}', {
-    maxZoom: 20,
-    subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
-    attribution: '&copy; <a href="https://www.google.com/intl/en_us/help/terms_maps.html">Google</a>',
+const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
 let locations = [];
 let currentMarker;
-let directionsService;
-let directionsRenderer;
+let routingControl;
 
 // Load JSON data
 fetch('info.json')
@@ -17,16 +15,6 @@ fetch('info.json')
         locations = data; 
     })
     .catch(error => console.error('Error loading JSON:', error));
-
-// Initialize Google Directions Service and Renderer
-function initGoogleRouting() {
-    directionsService = new google.maps.DirectionsService();
-    directionsRenderer = new google.maps.DirectionsRenderer({
-        draggable: false,
-        map: map,
-        panel: document.getElementById('directionsPanel')
-    });
-}
 
 // Get user location and calculate route
 function getLocation() {
@@ -63,10 +51,21 @@ function getLocation() {
                         `)
                         .openPopup();
 
-                    // Set up waypoints for Google Directions API
-                    const destination = new google.maps.LatLng(location.lat, location.lng);
-                    const origin = new google.maps.LatLng(userLat, userLng);
-                    calculateAndDisplayRoute(directionsService, directionsRenderer, origin, destination);
+                    // Set up routing
+                    if (routingControl) {
+                        map.removeControl(routingControl);
+                    }
+
+                    const start = L.latLng(userLat, userLng);
+                    const end = L.latLng(location.lat, location.lng);
+
+                    routingControl = L.Routing.control({
+                        waypoints: [start, end],
+                        router: L.Routing.osrmv1({
+                            serviceUrl: 'https://router.project-osrm.org/route/v1'
+                        }),
+                        routeWhileDragging: true
+                    }).addTo(map);
                 });
             } else {
                 alert('No locations found for this roll number.');
@@ -78,21 +77,3 @@ function getLocation() {
         alert('Geolocation is not supported by this browser.');
     }
 }
-
-// Calculate and display route
-function calculateAndDisplayRoute(directionsService, directionsRenderer, origin, destination) {
-    directionsService.route({
-        origin: origin,
-        destination: destination,
-        travelMode: google.maps.TravelMode.DRIVING
-    }, (response, status) => {
-        if (status === 'OK') {
-            directionsRenderer.setDirections(response);
-        } else {
-            alert('Directions request failed due to ' + status);
-        }
-    });
-}
-
-// Initialize the Google Routing
-initGoogleRouting();
