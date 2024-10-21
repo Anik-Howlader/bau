@@ -41,7 +41,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
 
         if (foundLocations.length > 0) {
             foundLocations.forEach(location => {
-                map.setView([location.lat, location.lng], 20);
+                map.setView([location.lat, location.lng], 18);
                 
                 if (currentMarker) {
                     map.removeLayer(currentMarker);
