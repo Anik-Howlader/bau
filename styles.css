@@ -54,7 +54,7 @@ body {
 
 @media (max-width: 768px) {
     .search-bar {
-        top: 30px;
+        top: 20px;
         /* Adjusted position */
     }
 
