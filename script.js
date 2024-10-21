@@ -1,23 +1,34 @@
-const map = L.map('map').setView([24.7234, 90.4353], 15);
-const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90.43526292660201], 15);
+const marker = L.marker([24.723367492217395, 90.43526292660201]).addTo(map);
+
+const normalLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}', {
+    maxZoom: 20,
+    subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+    attribution: '&copy; <a href="https://www.google.com/intl/en_us/help/terms_maps.html">Google</a>',
 }).addTo(map);
+
+const satelliteLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=s&x={x}&y={y}&z={z}', {
+    maxZoom: 20,
+    subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+    attribution: '&copy; <a href="https://www.google.com/intl/en_us/help/terms_maps.html">Google</a>',
+});
 
 let locations = [];
 let currentMarker;
 let routingControl;
 
-// Load JSON data
 fetch('info.json')
     .then(response => response.json())
     .then(data => {
-        locations = data; 
+        locations = data;
     })
     .catch(error => console.error('Error loading JSON:', error));
 
-// Get user location and calculate route
 function getLocation() {
+    if (routingControl) {
+        map.removeControl(routingControl); // Remove previous routing
+    }
+
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(position => {
             const userLat = position.coords.latitude;
@@ -51,19 +62,12 @@ function getLocation() {
                         `)
                         .openPopup();
 
-                    // Set up routing
-                    if (routingControl) {
-                        map.removeControl(routingControl);
-                    }
-
-                    const start = L.latLng(userLat, userLng);
-                    const end = L.latLng(location.lat, location.lng);
-
-                    routingControl = L.Routing.control({
-                        waypoints: [start, end],
-                        router: L.Routing.osrmv1({
-                            serviceUrl: 'https://router.project-osrm.org/route/v1'
-                        }),
+                    // Add routing from user location to destination
+                    routingControl = L.routing.control({
+                        waypoints: [
+                            L.latLng(userLat, userLng),
+                            L.latLng(location.lat, location.lng)
+                        ],
                         routeWhileDragging: true
                     }).addTo(map);
                 });
@@ -77,3 +81,27 @@ function getLocation() {
         alert('Geolocation is not supported by this browser.');
     }
 }
+
+const control = L.control({ position: 'bottomright' });
+
+control.onAdd = function (map) {
+    const div = L.DomUtil.create('div', 'leaflet-control-custom');
+    div.innerHTML = `
+        <div>
+            <button id="normalView">Normal View</button>
+            <button id="satelliteView">Satellite View</button>
+        </div>
+    `;
+
+    div.querySelector('#normalView').onclick = function () {
+        map.removeLayer(satelliteLayer);
+        normalLayer.addTo(map);
+    };
+    div.querySelector('#satelliteView').onclick = function () {
+        map.removeLayer(normalLayer);
+        satelliteLayer.addTo(map);
+    };
+    return div;
+};
+
+control.addTo(map);
