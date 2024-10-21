@@ -55,23 +55,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                     `)
                     .openPopup();
 
-                
-                navigator.geolocation.getCurrentPosition((position) => {
-                    const userLatLng = [position.coords.latitude, position.coords.longitude];
-
-                    if (routingControl) {
-                        map.removeControl(routingControl);
-                    }
-                    routingControl = L.routing.control({
-                        waypoints: [
-                            L.latLng(userLatLng),
-                            L.latLng([location.lat, location.lng])
-                        ],
-                        routeWhileDragging: true
-                    }).addTo(map);
-                }, () => {
-                    alert('Unable to retrieve your location.');
-                });
+            
             });
         } else {
             alert('No locations found for this roll number.');
