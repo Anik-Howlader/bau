@@ -1,0 +1,82 @@
+[
+    {
+        "start_roll": "1120",
+        "end_roll": "2222",
+        "lat": 24.7231,
+        "lng": 90.4353,
+        "description": "Building A",
+        "image_url": "bau.jpg"
+    },
+    {
+        "start_roll": "2223",
+        "end_roll": "3333",
+        "lat": 34.0522,
+        "lng": -118.2437,
+        "description": "Building B",
+        "image_url": "https://example.com/image_b.jpg"
+    },
+    {
+        "start_roll": "3334",
+        "end_roll": "4444",
+        "lat": 41.8781,
+        "lng": -87.6298,
+        "description": "Building C",
+        "image_url": "https://example.com/image_c.jpg"
+    },
+    {
+        "start_roll": "4445",
+        "end_roll": "5555",
+        "lat": 37.7749,
+        "lng": -122.4194,
+        "description": "Building D",
+        "image_url": "https://example.com/image_d.jpg"
+    },
+    {
+        "start_roll": "5556",
+        "end_roll": "6666",
+        "lat": 30.2672,
+        "lng": -97.7431,
+        "description": "Building E",
+        "image_url": "https://example.com/image_e.jpg"
+    },
+    {
+        "start_roll": "6667",
+        "end_roll": "7777",
+        "lat": 39.7392,
+        "lng": -104.9903,
+        "description": "Building F",
+        "image_url": "https://example.com/image_f.jpg"
+    },
+    {
+        "start_roll": "7778",
+        "end_roll": "8888",
+        "lat": 47.6062,
+        "lng": -122.3321,
+        "description": "Building G",
+        "image_url": "https://example.com/image_g.jpg"
+    },
+    {
+        "start_roll": "8889",
+        "end_roll": "9999",
+        "lat": 25.7617,
+        "lng": -80.1918,
+        "description": "Building H",
+        "image_url": "https://example.com/image_h.jpg"
+    },
+    {
+        "start_roll": "10000",
+        "end_roll": "11111",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "description": "Building I",
+        "image_url": "https://example.com/image_i.jpg"
+    },
+    {
+        "start_roll": "11112",
+        "end_roll": "12222",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "description": "Building J",
+        "image_url": "https://example.com/image_j.jpg"
+    }
+]
