@@ -54,12 +54,24 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                         <img src="${location.image_url}" alt="${location.description}" style="width:100px; height:auto;">
                     `)
                     .openPopup();
-
-            
-            });
-        } else {
-            alert('No locations found for this roll number.');
-        }
+// Add routing from user location to destination
+                    routingControl = L.routing.control({
+                        waypoints: [
+                            L.latLng(userLat, userLng),
+                            L.latLng(location.lat, location.lng)
+                        ],
+                        routeWhileDragging: true
+                    }).addTo(map);
+                });
+            } else {
+                alert('No locations found for this roll number.');
+            }
+        }, () => {
+            alert('Unable to retrieve your location.');
+        });
+    } else {
+        alert('Geolocation is not supported by this browser.');
+    }
     }
 
     const control = L.control({ position: 'bottomright' });
