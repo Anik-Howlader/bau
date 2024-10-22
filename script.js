@@ -52,7 +52,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                         <strong>Location: ${location.building}</strong><br>
                         ${location.floor}<br>
                         ${location.room}<br>
-                        <button  onclick= "getDirectionsButton">Get Directions</button>
+                        <button  id= "getDirectionsButton">Get Directions</button>
                     `)
                     .openPopup();
  // Event listener for the "Get Directions" button
