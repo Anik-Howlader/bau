@@ -47,7 +47,7 @@ let map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90.4
             foundLocations.forEach(location => {
 
                 
-              
+                  map.setView([location.lat, location.lng], 10,{ animate: true });
                   map.setView([location.lat, location.lng], 19,{ animate: true });
                
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
