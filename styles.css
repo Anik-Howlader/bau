@@ -26,6 +26,7 @@ body {
     flex-direction: row;
     position: relative;
     z-index: 1000;
+    bottom: 10px;
 }
 
 .search-bar {
