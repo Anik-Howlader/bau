@@ -52,13 +52,15 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                         <strong>Location: ${location.building}</strong><br>
                         ${location.floor}<br>
                         ${location.room}<br>
-                        <button  onclick= "getDirections(${location.lat}, ${location.lng})">Get Directions</button>
+                        <button  onclick= "getDirections">Get Directions</button>
                     `)
                     .openPopup();
- // Add event listener for the directions button
-            document.getElementById('getDirections').onclick = function () {
-                getDirections(location.lat, location.lng);
-            };
+ // Event listener for the "Get Directions" button
+            currentMarker.on('popupopen', () => {
+                document.getElementById('getDirectionsButton').onclick = function () {
+                    getDirections(location.lat, location.lng);
+                };
+            });
             
             });
         } else {
