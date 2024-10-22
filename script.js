@@ -2,9 +2,6 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
     const marker = L.marker([24.723367492217395, 90.43526292660201]).addTo(map);
 
 
-marker.bindPopup(customPopupContent, {
-    closeButton: false,
-});
 
 
     const normalLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}', {
@@ -52,7 +49,7 @@ marker.bindPopup(customPopupContent, {
                     map.removeLayer(currentMarker);
                 }
               
-                
+                  map.setView([location.lat, location.lng], 18,{ animate: true });
                
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
                     .bindPopup(`
@@ -62,7 +59,11 @@ marker.bindPopup(customPopupContent, {
                         <button type="button" class="btn btn-primary btn-sm" style="padding-top:2px;"  id= "getDirectionsButton">Get Directions</button>
                     `)
                     .openPopup(); 
-                map.setView([location.lat, location.lng], 18,{ animate: true });
+                
+currentMarker.bindPopup(customPopupContent, {
+    closeButton: false,
+});
+              
  // Event listener for the "Get Directions" button
             currentMarker.on('popupopen', () => {
                 document.getElementById('getDirectionsButton').onclick = function () {
