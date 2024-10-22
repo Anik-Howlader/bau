@@ -2117,7 +2117,166 @@
         "building": "Interdisciplinary Institute for Food Security (IIFS)",
         "floor": "Ground Floor",
         "room": "Class Room-03"
+    },
+    {
+        "start_roll": "12117",
+        "end_roll": "12142",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "Ground Floor",
+        "room": "Weed Lab, Room-122 Agronomy Dept."
+    },
+    {
+        "start_roll": "12143",
+        "end_roll": "12172",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "Ground Floor",
+        "room": "Seed Lab, Room-124 Agronomy Dept."
+    },
+    {
+        "start_roll": "12173",
+        "end_roll": "12258",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "Ground Floor",
+        "room": "Gallery, Room-133 Agronomy Dept."
+    },
+    {
+        "start_roll": "12259",
+        "end_roll": "12363",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "1st Floor",
+        "room": "Gallery, Horticulture Dept."
+    },
+    {
+        "start_roll": "12364",
+        "end_roll": "12413",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "1st Floor",
+        "room": "MS Classroom, Horticulture Dept."
+    },
+    {
+        "start_roll": "12414",
+        "end_roll": "12457",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "1st Floor",
+        "room": "Undergraduate Lab-1 Horticulture Dept."
+    },
+    {
+        "start_roll": "12458",
+        "end_roll": "12481",
+       "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "1st Floor",
+        "room": "Departmental Library Horticulture Dept."
+    },
+    {
+        "start_roll": "12482",
+        "end_roll": "12576",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "2nd Floor",
+        "room": "Gallery, Plant Pathology Dept."
+
+    },
+    {
+        "start_roll": "12577",
+        "end_roll": "12600",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "2nd Floor",
+        "room": "Lab-1, Room-303, Plant Pathology Dept."
+    },
+    {
+        "start_roll": "12601",
+        "end_roll": "12630",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "2nd Floor",
+        "room": "Lab-2, Room-304, Plant Pathology Dept."
+    },
+    {
+        "start_roll": "12631",
+        "end_roll": "12672",
+       "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "2nd Floor",
+        "room": "MS Classroom-305, Plant Pathology Dept."
+
+    },
+    {
+        "start_roll": "12673",
+        "end_roll": "12694",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "2nd Floor",
+        "room": "Library Cum Museum, Room-310, Plant Pathology Dept."
+    },
+    {
+        "start_roll": "12695",
+        "end_roll": "12724",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "3rd Floor",
+        "room": "MS Classroom-404, Biotechnology Dept."
+
+    },
+    {
+        "start_roll": "12725",
+        "end_roll": "12784",
+       "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "3rd Floor",
+        "room": "Room No.406, Biotechnology Dept."
+
+    },
+    {
+        "start_roll": "12785",
+        "end_roll": "12804",
+       "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "3rd Floor",
+        "room": "English Language Lab. Room-411, Language Dept."
+
+    },
+    {
+        "start_roll": "12805",
+        "end_roll": "12852",
+       "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "3rd Floor",
+        "room": "Classroom-405, Environmental Science Dept."
+    },
+    {
+        "start_roll": "12853",
+        "end_roll": "12952",
+        "lat": 24.72349225945994, 
+        "lng": 90.43645769507346,
+        "building": "Faculty of Agriculture(West Building)",
+        "floor": "3rd Floor",
+        "room": "Classroom-407"
     }
+
 
 
 
