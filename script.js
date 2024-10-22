@@ -53,7 +53,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
                     .bindPopup(`
-                        <b>Location: </b><strong> ${location.building}</strong><br>
+                        <b>Building: </b><strong> ${location.building}</strong><br>
                         <b>Floor: </b>${location.floor}<br>
                          <b>Room: </b>${location.room}<br>
                         <button type="button" class="btn btn-primary btn-sm" style="padding-top:2px;"  id= "getDirectionsButton">Get Directions</button>
@@ -61,9 +61,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                    // Open the popup immediately after creating the marker
         currentMarker.openPopup();
                 
-currentMarker.bindPopup(customPopupContent, {
-    closeButton: false,
-});
+
               
  // Event listener for the "Get Directions" button
             currentMarker.on('popupopen', () => {
