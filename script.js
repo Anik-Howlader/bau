@@ -52,15 +52,35 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                         <strong>Location: ${location.building}</strong><br>
                         ${location.floor}<br>
                         ${location.room}<br>
+                        <button id="getDirections">Get Directions</button>
                     `)
                     .openPopup();
-
+ // Add event listener for the directions button
+            document.getElementById('getDirections').onclick = function () {
+                getDirections(location.lat, location.lng);
+            };
             
             });
         } else {
             alert('No locations found for this roll number.');
         }
     }
+
+function getDirections(destLat, destLng) {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(position => {
+            const userLat = position.coords.latitude;
+            const userLng = position.coords.longitude;
+            const url = `https://www.google.com/maps/dir/?api=1&origin=${userLat},${userLng}&destination=${destLat},${destLng}&travelmode=driving`;
+            window.open(url, '_blank');
+        }, () => {
+            alert('Unable to retrieve your location.');
+        });
+    } else {
+        alert('Geolocation is not supported by this browser.');
+    }
+}
+
 
     const control = L.control({ position: 'bottomright' });
 
