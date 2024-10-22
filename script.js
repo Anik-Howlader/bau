@@ -57,8 +57,9 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                         <b>Floor: </b>${location.floor}<br>
                          <b>Room: </b>${location.room}<br>
                         <button type="button" class="btn btn-primary btn-sm" style="padding-top:2px;"  id= "getDirectionsButton">Get Directions</button>
-                    `)
-                    .openPopup(); 
+                    `);
+                   // Open the popup immediately after creating the marker
+        currentMarker.openPopup();
                 
 currentMarker.bindPopup(customPopupContent, {
     closeButton: false,
