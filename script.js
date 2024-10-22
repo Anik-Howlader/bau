@@ -55,7 +55,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                         ${location.room}<br>
                         <button  id= "getDirectionsButton">Get Directions</button>
                     `)
-                    .openPopup();
+                    .openTooltip();
  // Event listener for the "Get Directions" button
             currentMarker.on('popupopen', () => {
                 document.getElementById('getDirectionsButton').onclick = function () {
