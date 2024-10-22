@@ -1,21 +1,21 @@
-const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90.43526292660201], 15); 
-    const marker = L.marker([24.723367492217395, 90.43526292660201]).addTo(map);
+let map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90.43526292660201], 15); 
+    let currentMarker = L.marker([24.723367492217395, 90.43526292660201]).addTo(map);
 
 
-    const normalLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}', {
+    let normalLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}', {
         maxZoom: 20,
         subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
         attribution: '&copy; <a href="https://www.google.com/intl/en_us/help/terms_maps.html">Google</a>',
     }).addTo(map); 
 
-    const satelliteLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=s&x={x}&y={y}&z={z}', {
+    let satelliteLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=s&x={x}&y={y}&z={z}', {
         maxZoom: 20,
         subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
         attribution: '&copy; <a href="https://www.google.com/intl/en_us/help/terms_maps.html">Google</a>',
     });
 
     let locations = [];
-    let currentMarker;
+    
     let routingControl;
 
     fetch('info.json')
@@ -26,8 +26,10 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
         .catch(error => console.error('Error loading JSON:', error));
 
     function getLocation() {
-        map.removeLayer(marker);
-        const inputRoll = parseInt(document.getElementById('idInput').value);
+        if (currentMarker) {
+                    map.removeLayer(currentMarker);
+                }
+        let inputRoll = parseInt(document.getElementById('idInput').value);
 
         if (isNaN(inputRoll)) {
             alert('Please enter a valid roll number.');
@@ -41,9 +43,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
         });
 
         if (foundLocations.length > 0) { 
-            if (currentMarker) {
-                    map.removeLayer(currentMarker);
-                }
+           
             foundLocations.forEach(location => {
 
                 
