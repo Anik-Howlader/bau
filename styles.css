@@ -28,7 +28,9 @@ body {
     z-index: 1000;
 }
 
-
+.leaflet-container .leaflet-control-attribution{
+    opacity: 0.5;
+}
 
 .search-bar {
     position: absolute;
