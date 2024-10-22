@@ -29,7 +29,7 @@ body {
 }
 
 .leaflet-container .leaflet-control-attribution{
-    opacity: 0.5;
+    opacity: 0.0;
 }
 
 .search-bar {
