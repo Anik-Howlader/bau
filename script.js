@@ -45,17 +45,18 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                  if (currentMarker) {
                     map.removeLayer(currentMarker);
                 }
-                map.setView([location.lat, location.lng], 18,{ animate: true });
+              
                 
                
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
-                    .bindTooltip(`
+                    .bindPopup(`
                         <strong>Location: ${location.building}</strong><br>
                         ${location.floor}<br>
                         ${location.room}<br>
                         <button  id= "getDirectionsButton">Get Directions</button>
                     `)
-                    .openTooltip();
+                    .openPopup(); 
+                map.setView([location.lat, location.lng], 18,{ animate: true });
  // Event listener for the "Get Directions" button
             currentMarker.on('popupopen', () => {
                 document.getElementById('getDirectionsButton').onclick = function () {
