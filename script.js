@@ -49,7 +49,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                 
                
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
-                    .bindPopup(`
+                    .bindTooltip(`
                         <strong>Location: ${location.building}</strong><br>
                         ${location.floor}<br>
                         ${location.room}<br>
