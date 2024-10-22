@@ -48,7 +48,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
 
                 
               
-                  map.setView([location.lat, location.lng], 20,{ animate: true });
+                  map.setView([location.lat, location.lng], 19,{ animate: true });
                
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
                     .bindPopup(`
