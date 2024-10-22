@@ -607,8 +607,8 @@
     {
         "start_roll": "11636",
         "end_roll": "11695",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "Ground Floor",
         "room": "MS Classroom, Room-106 Soil Science Dept."
@@ -616,8 +616,8 @@
     {
         "start_roll": "11696",
         "end_roll": "11720",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "Ground Floor",
         "room": "Lab-120, Soil Science Dept."
@@ -625,8 +625,8 @@
     {
         "start_roll": "11721",
         "end_roll": "11745",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "Ground Floor",
         "room": "Lab-118, Soil Science Dept."
@@ -634,8 +634,8 @@
     {
         "start_roll": "11746",
         "end_roll": "11770",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "Ground Floor",
         "room": "Lab-112, Soil Science Dept."
@@ -643,8 +643,8 @@
     {
         "start_roll": "11771",
         "end_roll": "11806",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "1st Floor",
         "room": "Room No. 226, Undergraduate Lab-1 Crop Botany Dept."
@@ -652,8 +652,8 @@
     {
         "start_roll": "11807",
         "end_roll": "11830",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "1st Floor",
         "room": "Room No. 227, Undergraduate Lab-2 Crop Botany Dept."
@@ -661,8 +661,8 @@
     {
         "start_roll": "11831",
         "end_roll": "11850",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "1st Floor",
         "room": "Room No. 228, Undergraduate Lab-3 Crop Botany Dept."
@@ -670,8 +670,8 @@
     {
         "start_roll": "11851",
         "end_roll": "11874",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "1st Floor",
         "room": "MS & Seminar Room, Room No.230 Crop Botany Dept"
@@ -679,8 +679,8 @@
     {
         "start_roll": "11875",
         "end_roll": "11894",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "2nd Floor",
         "room": "MS Lab-2, Room #325 Entomology Dept."
@@ -688,8 +688,8 @@
     {
         "start_roll": "11895",
         "end_roll": "11924",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "2nd Floor",
         "room": "Lab-1, Room #327 Entomology Dept."
@@ -698,8 +698,8 @@
     {
         "start_roll": "11925",
         "end_roll": "11960",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "2nd Floor",
         "room": "Lab-2, Room #328 Entomology Dept."
@@ -708,8 +708,8 @@
     {
         "start_roll": "11961",
         "end_roll": "12000",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "2nd Floor",
         "room": "MS Classroom, Room-331 Entomology Dept."
@@ -718,8 +718,8 @@
     {
         "start_roll": "12001",
         "end_roll": "12056",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "3rd Floor",
         "room": "Room No. 404 Genetics & Plant Breeding Dept."
@@ -728,8 +728,8 @@
     {
         "start_roll": "12057",
         "end_roll": "12086",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "3rd Floor",
         "room": "Room No. 407 Genetics & Plant Breeding Dept."
@@ -738,12 +738,1096 @@
     {
         "start_roll": "12087",
         "end_roll": "12116",
-        "lat": 24.723149375870953,
-        "lng": 90.43841544284108,
+        "lat": 24.723577700408836, 
+        "lng": 90.43738563960216,
         "building": "Faculty of Agriculture(East Building)",
         "floor": "3rd Floor",
         "room": "Room No. 420 Genetics & Plant Breeding Dept."
 
+    },
+    {
+        "start_roll": "18636",
+        "end_roll": "18675",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "Ground Floor",
+        "room": "Room No. 1, Fisheries Biology & Genetics Laboratory"
+    },
+    {
+        "start_roll": "18676",
+        "end_roll": "18695",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "Ground Floor",
+        "room": "Room No. 2, Fisheries Biology & Genetics Laboratory"
+    },
+    {
+        "start_roll": "18696",
+        "end_roll": "18795",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "Ground Floor",
+        "room": "Room No. 4, Gallery"
+    },
+    {
+        "start_roll": "18796",
+        "end_roll": "18858",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "Ground Floor",
+        "room": "Room No. 5, Classroom"
+    },
+    {
+        "start_roll": "18859",
+        "end_roll": "18921",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "Ground Floor",
+        "room": "Room No. 6, Classroom"
+    },
+    {
+        "start_roll": "18922",
+        "end_roll": "18951",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "Ground Floor",
+        "room": "Room No. 9, Limnology Laboratory"
+    },
+    {
+        "start_roll": "18952",
+        "end_roll": "18971",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 10, Fish Nutrition Laboratory"
+    },
+    {
+        "start_roll": "18972",
+        "end_roll": "18991",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 11, Fish Processing & Quality Control Laboratory"
+    },
+    {
+        "start_roll": "18992",
+        "end_roll": "19014",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 12, Ecology Laboratory"
+    },
+    {
+        "start_roll": "19015",
+        "end_roll": "19077",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 13, Classroom"
+    },
+    {
+        "start_roll": "19078",
+        "end_roll": "19102",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 15, Fish Pathology Laboratory"
+
+    },
+    {
+        "start_roll": "19103",
+        "end_roll": "19132",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 16. National Professor Dr. A.K.M. Aminul Haque Memorial Fisheries Library"
+    },
+    {
+        "start_roll": "19133",
+        "end_roll": "19152",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 17, Fisheries Microbiology Laboratory"
+    },
+    {
+        "start_roll": "19153",
+        "end_roll": "19180",
+        "lat": 24.726329426836926, 
+        "lng": 90.43532936041721,
+        "building": "Main Building, Faculty of Fisheries",
+        "floor": "1st Floor",
+        "room": "Room No. 18, Fishing Technology Laboratory"
+    },
+    {
+        "start_roll": "19181",
+        "end_roll": "19205",
+        "lat": 24.725198143872117, 
+        "lng": 90.43411381016749,
+        "building": "Laboratory of Climate Research for Fisheries (Opposite to Darul Quran Muslim Academy)",
+        "floor": "One Storied Building",
+        "room": "Fisheries Biology & Genetics Laboratory"
+    },
+    {
+        "start_roll": "14459",
+        "end_roll": "14598",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Central Examination Hall"
+    },
+    {
+        "start_roll": "14599",
+        "end_roll": "14693",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Tin Shed (North Side) Room No. 227"
+    },
+    {
+        "start_roll": "14694",
+        "end_roll": "14788",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Tin Shed (North Side) Room No. 228"
+    },
+    {
+        "start_roll": "14789",
+        "end_roll": "14883",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Tin Shed (North Side) Room No. 229"
+    },
+    {
+        "start_roll": "14884",
+        "end_roll": "14978",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Tin Shed (North Side) Room No. 230"
+    },
+    {
+        "start_roll": "14979",
+        "end_roll": "15003",
+       "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "2nd Floor",
+        "room": "Undergraduate Lab-1, Room No. 302 Biochemistry & Molecular Biology Dept."
+    },
+    {
+        "start_roll": "15004",
+        "end_roll": "15028",
+       "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "2nd Floor",
+        "room": "Undergraduate Lab-2, Room No. 311 Biochemistry & Molecular Biology Dept."
+    },
+    {
+        "start_roll": "15029",
+        "end_roll": "15053",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Undergraduate Lab-3, Room No. 218 Biochemistry & Molecular Biology Dept."
+
+    },
+    {
+        "start_roll": "15054",
+        "end_roll": "15103",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Undergraduate Lab-4, Room No. 226 Biochemistry & Molecular Biology Dept."
+    },
+    {
+        "start_roll": "15104",
+        "end_roll": "15138",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "M.S. Classroom, Room No. 225 Biochemistry & Molecular Biology Dept."
+    },
+    {
+        "start_roll": "15139",
+        "end_roll": "15163",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Post Graduate Lab, Room No. 209 Agri-Chemistry Dept."
+    },
+    {
+        "start_roll": "15164",
+        "end_roll": "15195",
+        "lat": 24.72214037423984, 
+        "lng": 90.44240854270849,
+        "building": "Faculty of Agriculture Karim Bhaban",
+        "floor": "1st Floor",
+        "room": "Undergraduate Lab-1, Room No. 210 Agri-Chemistry Dept."
+    },
+    {
+        "start_roll": "10001",
+        "end_roll": "10120",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "1st floor",
+        "room":"Microbiology Gallary, Microbiology and Hygiene Dept."
+    },
+    {
+        "start_roll": "10121",
+        "end_roll": "10140",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "1st floor",
+        "room":"Bacteriology Lab, Classroom-1, Dept. of Microbiology and Hygiene"
+    },
+    {
+        "start_roll": "10141",
+        "end_roll": "10160",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "1st floor",
+        "room":"Bacteriology Lab, Classroom-2, Dept. of Microbiology and Hygiene"
+    },
+    {
+        "start_roll": "10161",
+        "end_roll": "10180",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "1st floor",
+        "room":"MS Classroom, Dept. of Microbiology and Hygiene"
+    },
+    {
+        "start_roll": "10181",
+        "end_roll": "10230",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "1st floor",
+        "room":"Hygine Classroom, Dept. of Microbiology and Hygiene"
+    },
+    {
+        "start_roll": "10231",
+        "end_roll": "10330",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "2nd floor",
+        "room":"Pathology Gallary, Dept. of Pathology"
+    },
+    {
+        "start_roll": "10331",
+        "end_roll": "10350",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "2nd floor",
+        "room":"Systemic Pathology Classroom 1, Dept. of Pathology"
+    },
+    {
+        "start_roll": "10351",
+        "end_roll": "10390",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "2nd floor",
+        "room":"Poultry Pathology Classroom, Dept. of Pathology"
+    },
+    {
+        "start_roll": "10391",
+        "end_roll": "10440",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "3rd floor",
+        "room":"MS Classroom, Dept. of Parasitology"
+    },
+    {
+        "start_roll": "10441",
+        "end_roll": "10460",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "3rd floor",
+        "room":"Helmenthology Laboratory, Dept. of Parasitology"
+    },
+    {
+        "start_roll": "10461",
+        "end_roll": "10480",
+        "lat": 24.725588144811187, 
+        "lng": 90.43701903740171,
+        "building":"Faculty of Veterinary Science, Faculty building-1",
+        "floor": "3rd floor",
+        "room":"Protozoology Laboratory, Dept. of Parasitology"
+    },
+    {
+        "start_roll": "10481",
+        "end_roll": "10630",
+        "lat": 24.72475100132906, 
+        "lng": 90.43795713925307,
+        "building":"Central Library",
+        "floor": "2nd floor",
+        "room":"Reading Room"
+    },
+    {
+        "start_roll": "10631",
+        "end_roll": "10660",
+        "lat": 24.72475100132906, 
+        "lng": 90.43795713925307,
+        "building":"Central Library",
+        "floor": "2nd floor",
+        "room":"MS and PhD Corner"
+    },
+    {
+        "start_roll": "10661",
+        "end_roll": "10690",
+        "lat": 24.72475100132906, 
+        "lng": 90.43795713925307,
+        "building":"Central Library",
+        "floor": "2nd floor",
+        "room":"Carrier Corner"
+    },
+    {
+        "start_roll": "10691",
+        "end_roll": "10750",
+        "lat": 24.72475100132906, 
+        "lng": 90.43795713925307,
+        "building":"Central Library",
+        "floor": "3rd floor",
+        "room":"Seminar Room"
+    },
+    {
+        "start_roll": "11236",
+        "end_roll": "11335",
+        "lat": 24.725387225718794, 
+        "lng": 90.43715229267075,
+        "building":"Faculty of Veterinary Science, Faculty building-3",
+        "floor": "2nd floor",
+        "room":"Medicine Gallary, Dept. of Medicine"
+    },
+    {
+        "start_roll": "11336",
+        "end_roll": "11375",
+        "lat": 24.725387225718794, 
+        "lng": 90.43715229267075,
+        "building":"Faculty of Veterinary Science, Faculty building-3",
+        "floor": "2nd floor",
+        "room":"Epidermology lab, Dept. of Medicine"
+    },
+    {
+        "start_roll": "11376",
+        "end_roll": "11410",
+        "lat": 24.725387225718794, 
+        "lng": 90.43715229267075,
+        "building":"Faculty of Veterinary Science, Faculty building-3",
+        "floor": "1st floor",
+        "room":"Tutorial Room, Dept. of Surgery and Obsterics"
+    },
+    {
+        "start_roll": "11411",
+        "end_roll": "11460",
+        "lat": 24.725387225718794, 
+        "lng": 90.43715229267075,
+        "building":"Faculty of Veterinary Science, Faculty building-3",
+        "floor": "1st floor",
+        "room":"Conference Room, Dept. of Surgery and Obsterics"
+    },
+    {
+        "start_roll": "11461",
+        "end_roll": "11485",
+        "lat": 24.725387225718794, 
+        "lng": 90.43715229267075,
+        "building":"Faculty of Veterinary Science, Faculty building-3",
+        "floor": "3rd floor",
+        "room":"MS and PhD Room, Dept. of Surgery and Obsterics"
+    },
+    {
+        "start_roll": "11486",
+        "end_roll": "11535",
+        "lat": 24.725714469204906, 
+        "lng": 90.43448174447663,
+        "building":"Faculty of Veterinary Science, Veterinary Teaching Hospital",
+        "floor": "1st floor",
+        "room":"Clinical Classroom-1"
+    },
+    {
+        "start_roll": "11536",
+        "end_roll": "11565",
+       "lat": 24.725714469204906, 
+        "lng": 90.43448174447663,
+        "building":"Faculty of Veterinary Science, Veterinary Teaching Hospital",
+        "floor": "1st floor",
+        "room":"Clinical Classroom-2"
+    },
+    {
+        "start_roll": "11566",
+        "end_roll": "11635",
+        "lat": 24.725387225718794, 
+        "lng": 90.43715229267075,
+        "building":"Faculty of Veterinary Science, Faculty building-3",
+        "floor": "2nd floor",
+        "room":"Medical Conference Hall, FVS"
+    },
+    {
+        "start_roll": "13173",
+        "end_roll": "13202",
+        "lat": 24.721807393025347, 
+        "lng": 90.43652856114694,
+        "building":"Faculty of Agriculture, Agril. Extension Education Building",
+        "floor": "1st floor",
+        "room":"Room-213, Agril. Extension Education Dept."
+    },
+    {
+        "start_roll": "13203",
+        "end_roll": "13250",
+        "lat": 24.721807393025347, 
+        "lng": 90.43652856114694,
+        "building":"Faculty of Agriculture, Agril. Extension Education Building",
+        "floor": "1st floor",
+        "room":"Room-214, Agril. Extension Education Dept."
+    },
+    {
+        "start_roll": "13251",
+        "end_roll": "13270",
+        "lat": 24.721807393025347, 
+        "lng": 90.43652856114694,
+        "building":"Faculty of Agriculture, Agril. Extension Education Building",
+        "floor": "2nd floor",
+        "room":"Room-314, Agril. Extension Education Dept."
+    },
+    {
+        "start_roll": "13271",
+        "end_roll": "13300",
+        "lat": 24.721807393025347, 
+        "lng": 90.43652856114694,
+        "building":"Faculty of Agriculture, Agril. Extension Education Building",
+        "floor": "2nd floor",
+        "room":"Room-316, Agril. Extension Education Dept."
+    },
+    {
+        "start_roll": "13301",
+        "end_roll": "13330",
+        "lat": 24.721807393025347, 
+        "lng": 90.43652856114694,
+        "building":"Faculty of Agriculture, Agril. Extension Education Building",
+        "floor": "2nd floor",
+        "room":"Room-317, Agril. Extension Education Dept."
+    },
+    {
+        "start_roll": "13331",
+        "end_roll": "13380",
+        "lat": 24.71985269615891, 
+        "lng": 90.43785774140534,
+        "building":"Faculty of Agriculture, GTI Dormitory Building",
+        "floor": "Ground floor",
+        "room":"GTI Dormitory Dining Hall"
+    },
+    {
+        "start_roll": "13381",
+        "end_roll": "13430",
+        "lat": 24.71985269615891, 
+        "lng": 90.43785774140534,
+        "building":"Faculty of Agriculture, GTI Dormitory Building",
+        "floor": "1st floor",
+        "room":"GTI Dormitory Class Room"
+    },
+    {
+        "start_roll": "13431",
+        "end_roll": "13480",
+        "lat": 24.72160142456004, 
+        "lng": 90.43653689324123,
+        "building":"Faculty of Agriculture, GTI Agril. Extension Education Building",
+        "floor": "Ground floor",
+        "room":"GTI Classroom"
+    },
+    {
+        "start_roll": "13481",
+        "end_roll": "13520",
+        "lat": 24.722091137199552, 
+        "lng": 90.43631695210469,
+        "building":"Faculty of Agriculture, Agro Forestry Building",
+        "floor": "Ground floor",
+        "room":"Undergraduate Lab, Agroforestry Dept."
+    },
+    {
+        "start_roll": "13521",
+        "end_roll": "13540",
+        "lat": 24.722091137199552, 
+        "lng": 90.43631695210469,
+        "building":"Faculty of Agriculture, Agro Forestry Building",
+        "floor": "Ground floor",
+        "room":"MS Classroom, Agroforestry Dept."
+    },
+    {
+        "start_roll": "13541",
+        "end_roll": "13570",
+        "lat": 24.722091137199552, 
+        "lng": 90.43631695210469,
+        "building":"Faculty of Agriculture, Agro Forestry Building",
+        "floor": "Ground floor",
+        "room":"Meeting Room, Agroforestry Dept."
+    },
+    {
+        "start_roll": "13571",
+        "end_roll": "13590",
+        "lat": 24.722091137199552, 
+        "lng": 90.43631695210469,
+        "building":"Faculty of Agriculture, Agro Forestry Building",
+        "floor": "1st floor",
+        "room":"Class Room-1, Agrometerology Dept."
+    },
+    {
+        "start_roll": "13591",
+        "end_roll": "13610",
+        "lat": 24.722091137199552, 
+        "lng": 90.43631695210469,
+        "building":"Faculty of Agriculture, Agro Forestry Building",
+        "floor": "1st floor",
+        "room":"Class Room-2, Agrometerology Dept."
+    },
+    {
+        "start_roll": "13611",
+        "end_roll": "13630",
+        "lat": 24.722091137199552, 
+        "lng": 90.43631695210469,
+        "building":"Faculty of Agriculture, Agro Forestry Building",
+        "floor": "1st floor",
+        "room":"Conference Room, Agrometerology Dept."
+    },
+    {
+        "start_roll": "13967",
+        "end_roll": "14146",
+        "lat": 24.72218610675436, 
+        "lng": 90.44235995089373,
+        "building":"Faculty of Agriculture, Karim Bhaban",
+        "floor": "Ground floor",
+        "room":"Central Examination Hall"
+    },
+    {
+        "start_roll": "14147",
+        "end_roll": "14242",
+        "lat": 24.72218610675436, 
+        "lng": 90.44235995089373,
+        "building":"Faculty of Agriculture, Karim Bhaban",
+        "floor": "Ground floor",
+        "room":"Gallary 124"
+    },
+    {
+        "start_roll": "14243",
+        "end_roll": "14338",
+        "lat": 24.72218610675436, 
+        "lng": 90.44235995089373,
+        "building":"Faculty of Agriculture, Karim Bhaban",
+        "floor": "Ground floor",
+        "room":"Gallary 125"
+    },
+    {
+        "start_roll": "14339",
+        "end_roll": "14363",
+        "lat": 24.72218610675436, 
+        "lng": 90.44235995089373,
+        "building":"Faculty of Agriculture, Karim Bhaban",
+        "floor": "Ground floor",
+        "room":"Undergraduate Lab-2, Room No-110, Agri-Chemistry Dept."
+    },
+    {
+        "start_roll": "14364",
+        "end_roll": "14388",
+       "lat": 24.72218610675436, 
+        "lng": 90.44235995089373,
+        "building":"Faculty of Agriculture, Karim Bhaban",
+        "floor": "Ground floor",
+        "room":"Undergraduate Lab-3, Room No-113, Agri-Chemistry Dept."
+    },
+    {
+        "start_roll": "14389",
+        "end_roll": "14428",
+        "lat": 24.72218610675436, 
+        "lng": 90.44235995089373,
+        "building":"Faculty of Agriculture, Karim Bhaban",
+        "floor": "Ground floor",
+        "room":"MS Classroom, Room No-119, Agri-Chemistry Dept."
+    },
+    {
+        "start_roll": "14429",
+        "end_roll": "14458",
+        "lat": 24.72218610675436, 
+        "lng": 90.44235995089373,
+        "building":"Faculty of Agriculture, Karim Bhaban",
+        "floor": "Ground floor",
+        "room":"Lab-1, Dept. of Physics"
+    },
+    {
+        "start_roll": "15196",
+        "end_roll": "15220",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Lab-017/L(PS Lab)"
+    },
+    {
+        "start_roll": "15221",
+        "end_roll": "15290",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Classroom-018/C"
+    },
+    {
+        "start_roll": "15291",
+        "end_roll": "15360",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Classroom-019/C"
+    },
+    {
+        "start_roll": "15361",
+        "end_roll": "15472",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Classroom-020/C (Gallary)"
+    },
+    {
+        "start_roll": "15473",
+        "end_roll": "15497",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Lab-022/L, Animal Breeding Lab"
+    },
+    {
+        "start_roll": "15498",
+        "end_roll": "15522",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Lab-021/L, Genetics Lab"
+    },
+    {
+        "start_roll": "15523",
+        "end_roll": "15547",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Lab-023/L, DS Lab"
+    },
+    {
+        "start_roll": "15548",
+        "end_roll": "15572",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "1st floor",
+        "room":"Lab-122/L, AS Lab"
+    },
+    {
+        "start_roll": "15573",
+        "end_roll": "15597",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Dairy Technology & Milk Processing Plant (West)"
+    },
+    {
+        "start_roll": "15598",
+        "end_roll": "15617",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "Ground floor",
+        "room":"Laboratory of Technology and Pilot Plant (West)"
+    },
+    {
+        "start_roll": "15618",
+        "end_roll": "15657",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "1st floor",
+        "room":"Classroom-119/C"
+    },
+    {
+        "start_roll": "15658",
+        "end_roll": "15727",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "1st floor",
+        "room":"Classroom-117/C"
+    },
+    {
+        "start_roll": "15728",
+        "end_roll": "15753",
+        "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "1st floor",
+        "room":"Lab-115/L, AN Lab"
+    },
+    {
+        "start_roll": "15754",
+        "end_roll": "15783",
+       "lat": 24.726764019581726, 
+        "lng": 90.4361637206855,
+        "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
+        "floor": "1st floor",
+        "room":"Kazi Fazlur Rahim Library"
+    },
+    {
+        "start_roll": "16086",
+        "end_roll": "16135",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "Ground floor",
+        "room":"Class Room No 122"
+    },
+    {
+        "start_roll": "16136",
+        "end_roll": "16252",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "Ground floor",
+        "room":"Class Room No 123"
+    },
+    {
+        "start_roll": "16253",
+        "end_roll": "16277",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "Ground floor",
+        "room":"Room No 124, Stat Lab-III"
+    },
+    {
+        "start_roll": "16278",
+        "end_roll": "16327",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "Ground floor",
+        "room":"Class Room No 125"
+    },
+    {
+        "start_roll": "16328",
+        "end_roll": "16377",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "Ground floor",
+        "room":"Class Room No 126"
+    },
+    {
+        "start_roll": "16378",
+        "end_roll": "16443",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "Ground floor",
+        "room":"Class Room No 128"
+    },
+    {
+        "start_roll": "16444",
+        "end_roll": "16468",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "1st floor",
+        "room":"Room No 222, Price Lab"
+    },
+    {
+        "start_roll": "16469",
+        "end_roll": "16516",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "1st floor",
+        "room":"Room No 223, Stat Lab-I"
+    },
+    {
+        "start_roll": "16517",
+        "end_roll": "16541",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "1st floor",
+        "room":"Room No 224, Stat Lab-II"
+    },
+    {
+        "start_roll": "16542",
+        "end_roll": "16591",
+       "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "1st floor",
+        "room":"Class Room No 225"
+    },
+    {
+        "start_roll": "16592",
+        "end_roll": "16641",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "1st floor",
+        "room":"Class Room No 226"
+    },
+    {
+        "start_roll": "16642",
+        "end_roll": "16666",
+        "lat": 24.72646058808261, 
+        "lng": 90.43735020856577,
+        "building":"Faculty of Agricultural Economics and Rural Sociology, Faculty Building",
+        "floor": "1st floor",
+        "room":"Shamshul Islam Memorial Library"
+    },
+    {
+        "start_roll": "17076",
+        "end_roll": "17175",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Lecture Gallery-1"
+    },
+    {
+        "start_roll": "17276",
+        "end_roll": "17325",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"MS Room No 020"
+    },
+    {
+        "start_roll": "17326",
+        "end_roll": "17375",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Room No 019"
+    },
+    {
+        "start_roll": "17376",
+        "end_roll": "17415",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Environmental Engineering Lab"
+    },
+    {
+        "start_roll": "17416",
+        "end_roll": "17465",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "1st floor",
+        "room":"Room-119"
+    },
+    {
+        "start_roll": "17466",
+        "end_roll": "17515",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "1st floor",
+        "room":"Room-120"
+    },
+    {
+        "start_roll": "17516",
+        "end_roll": "17570",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "1st floor",
+        "room":"Room-122, Drawing Room"
+    },
+    {
+        "start_roll": "17571",
+        "end_roll": "17640",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Concrete & Material Testing Lab"
+    },
+    {
+        "start_roll": "17641",
+        "end_roll": "17710",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Hydraluic Lab"
+    },
+    {
+        "start_roll": "17711",
+        "end_roll": "17750",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Soil Mechanic Engineering Lab"
+    },
+    {
+        "start_roll": "17751",
+        "end_roll": "17795",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Heat Engine Lab, Workshop"
+    },
+    {
+        "start_roll": "17796",
+        "end_roll": "17835",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Agricultural Mechanaries Lab, Workshop"
+    },
+    {
+        "start_roll": "17836",
+        "end_roll": "17875",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Welding Shop, Workshop"
+    },
+    {
+        "start_roll": "17876",
+        "end_roll": "17895",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"MS Room, Workshop"
+    },
+    {
+        "start_roll": "17896",
+        "end_roll": "17915",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"MS Room, Hydraulic Lab"
+    },
+    {
+        "start_roll": "17916",
+        "end_roll": "17975",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "2nd floor",
+        "room":"Room-301"
+    },
+    {
+        "start_roll": "17976",
+        "end_roll": "18035",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "3rd floor",
+        "room":"Room-401"
+    },
+    {
+        "start_roll": "18036",
+        "end_roll": "18085",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "3rd floor",
+        "room":"Room-402"
+    },
+    {
+        "start_roll": "18086",
+        "end_roll": "18125",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "3rd floor",
+        "room":"Room-403"
+    },
+    {
+        "start_roll": "18126",
+        "end_roll": "18165",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "1st floor",
+        "room":"Computer Lab-1"
+    },
+    {
+        "start_roll": "18166",
+        "end_roll": "18205",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "2nd floor",
+        "room":"Computer Lab-2"
+    },
+    {
+        "start_roll": "18206",
+        "end_roll": "18255",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "Third floor",
+        "room":"Room-402"
+    },
+    {
+        "start_roll": "18256",
+        "end_roll": "18275",
+        "lat": 24.72449779219893, 
+        "lng": 90.43618378940363,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
+        "floor": "Third floor",
+        "room":"Room-403"
     }
+
+
 
 ]
