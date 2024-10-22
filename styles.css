@@ -29,6 +29,11 @@ body {
     bottom: 30px;
 }
 
+.leaflet-control-attribution leaflet-control{
+    display: none;
+visibility: hidden;
+}
+
 .search-bar {
     position: absolute;
     top: 20px;
