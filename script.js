@@ -53,7 +53,7 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                         <strong>Location: ${location.building}</strong><br>
                         ${location.floor}<br>
                         ${location.room}<br>
-                        <button  id= "getDirectionsButton">Get Directions</button>
+                        <button type="button" class="btn btn-primary btn-sm"  id= "getDirectionsButton">Get Directions</button>
                     `)
                     .openPopup(); 
                 map.setView([location.lat, location.lng], 18,{ animate: true });
