@@ -408,8 +408,8 @@
     {
         "start_roll": "22026",
         "end_roll": "22088",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-1)",
         "floor": "Ground Floor",
         "room": "Room No.108"
@@ -418,8 +418,8 @@
     {
         "start_roll": "22089",
         "end_roll": "22151",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-1)",
         "floor": "Ground Floor",
         "room": "Room No.109"
@@ -428,8 +428,8 @@
     {
         "start_roll": "22152",
         "end_roll": "22226",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-1)",
         "floor": "Ground Floor",
         "room": "Room No.110"
@@ -438,8 +438,8 @@
     {
         "start_roll": "22227",
         "end_roll": "22301",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-2)",
         "floor": "Ground Floor",
         "room": "Room No.111"
@@ -448,8 +448,8 @@
     {
         "start_roll": "22302",
         "end_roll": "22376",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-2)",
         "floor": "Ground Floor",
         "room": "Room No.112"
@@ -458,8 +458,8 @@
     {
         "start_roll": "22377",
         "end_roll": "22409",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-2)",
         "floor": "Ground Floor",
         "room": "Room No.113"
@@ -468,8 +468,8 @@
     {
         "start_roll": "22410",
         "end_roll": "22472",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+       "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-2)",
         "floor": "Ground Floor",
         "room": "Room No.114"
@@ -478,8 +478,8 @@
     {
         "start_roll": "22473",
         "end_roll": "22538",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-2)",
         "floor": "Ground Floor",
         "room": "Room No.116"
@@ -488,8 +488,8 @@
     {
         "start_roll": "22539",
         "end_roll": "22604",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+       "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-2)",
         "floor": "Ground Floor",
         "room": "Room No.117"
@@ -498,8 +498,8 @@
     {
         "start_roll": "22605",
         "end_roll": "22634",
-        "lat": 24.7344158482611, 
-        "lng": 90.43065085274571,
+        "lat": 24.73384268782659, 
+        "lng": 90.43070485758128,
         "building": "Bangladesh Railway Govt High School (Building-2)",
         "floor": "Ground Floor",
         "room": "Room No.119"
@@ -508,8 +508,8 @@
     {
         "start_roll": "20836",
         "end_roll": "20958",
-        "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+        "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-1,Agricultural University College",
         "floor": "Ground Floor",
         "room": "Room No.102"
@@ -518,8 +518,8 @@
     {
         "start_roll": "20959",
         "end_roll": "21093",
-       "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+       "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-1,Agricultural University College",
         "floor": "1st Floor",
         "room": "Room No.202"
@@ -528,8 +528,8 @@
     {
         "start_roll": "21094",
         "end_roll": "21193",
-        "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+        "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-1,Agricultural University College",
         "floor": "2nd Floor",
         "room": "Room No.302"
@@ -538,8 +538,8 @@
     {
         "start_roll": "21194",
         "end_roll": "21316",
-        "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+        "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-2,Agricultural University College",
         "floor": "Ground Floor",
         "room": "Room No.108"
@@ -548,8 +548,8 @@
     {
         "start_roll": "21317",
         "end_roll": "21439",
-        "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+       "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-2,Agricultural University College",
         "floor": "Ground Floor",
         "room": "Room No.109"
@@ -558,8 +558,8 @@
     {
         "start_roll": "21440",
         "end_roll": "21562",
-        "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+        "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-2,Agricultural University College",
         "floor": "1st Floor",
         "room": "Room No.207"
@@ -568,8 +568,8 @@
     {
         "start_roll": "21563",
         "end_roll": "21685",
-        "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+        "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-2,Agricultural University College",
         "floor": "1st Floor",
         "room": "Room No.208"
@@ -578,8 +578,8 @@
     {
         "start_roll": "21686",
         "end_roll": "21845",
-       "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+      "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-2,Agricultural University College",
         "floor": "2nd Floor",
         "room": "Room No.307"
@@ -588,8 +588,8 @@
     {
         "start_roll": "21846",
         "end_roll": "21935",
-        "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+       "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-2,Agricultural University College",
         "floor": "2nd Floor",
         "room": "Room No.308"
@@ -598,8 +598,8 @@
     {
         "start_roll": "21936",
         "end_roll": "22025",
-       "lat": 24.73400827394798, 
-        "lng": 90.4305602329791,
+      "lat": 24.73278179496238, 
+        "lng": 90.43036746623784,
         "building": "Academic Building-2,Agricultural University College",
         "floor": "2nd Floor",
         "room": "Room No.309"
