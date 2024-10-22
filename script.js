@@ -1,7 +1,6 @@
 const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90.43526292660201], 15); 
-    const marker = L.marker([24.723367492217395, 90.43526292660201]).addTo(map);
-
-
+    const marker = L.marker([24.723367492217395, 90.43526292660201]).addTo(map).bindPopup('')
+        .openPopup();
 
 
     const normalLayer = L.tileLayer('https://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}', {
