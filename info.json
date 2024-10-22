@@ -2,8 +2,8 @@
     {
         "start_roll": "13631",
         "end_roll": "13810",
-        "lat": 24.723114411122936, 
-        "lng": 90.43911536380942 ,
+        "lat": 24.7231935048287,
+        "lng":  90.43915456994036,
         "building": "Faculty of Agriculture Sayed Nazrul Islam Conference Hall,BAURES Building",
         "floor": "Ground Floor",
         "room": "Sayed Nazrul Islam Conference Hall"
@@ -12,8 +12,8 @@
     {
         "start_roll": "13811",
         "end_roll": "13860",
-        "lat": 24.723114411122936, 
-        "lng": 90.43911536380942 ,
+        "lat": 24.7231935048287,
+        "lng":  90.43915456994036,
         "building": "Faculty of Agriculture Sayed Nazrul Islam Conference Hall,BAURES Building",
         "floor": "Ground Floor",
         "room": "South Varandah of  Sayed Nazrul Conference Hall"
