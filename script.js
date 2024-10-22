@@ -41,12 +41,13 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
             return inputRoll >= startRoll && inputRoll <= endRoll;
         });
 
-        if (foundLocations.length > 0) {
-            foundLocations.forEach(location => {
-
-                 if (currentMarker) {
+        if (foundLocations.length > 0) { 
+            if (currentMarker) {
                     map.removeLayer(currentMarker);
                 }
+            foundLocations.forEach(location => {
+
+                
               
                   map.setView([location.lat, location.lng], 20,{ animate: true });
                
