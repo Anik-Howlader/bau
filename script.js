@@ -56,10 +56,10 @@ marker.bindPopup(customPopupContent, {
                
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
                     .bindPopup(`
-                        <strong>Location: ${location.building}</strong><br>
-                        ${location.floor}<br>
-                        ${location.room}<br>
-                        <button type="button" class="btn btn-primary btn-sm"  id= "getDirectionsButton">Get Directions</button>
+                        <b>Location: </b><strong> ${location.building}</strong><br>
+                        <b>Floor: </b>${location.floor}<br>
+                         <b>Room: </b>${location.room}<br>
+                        <button type="button" class="btn btn-primary btn-sm" style="padding-top:2px;"  id= "getDirectionsButton">Get Directions</button>
                     `)
                     .openPopup(); 
                 map.setView([location.lat, location.lng], 18,{ animate: true });
