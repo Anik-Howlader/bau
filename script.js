@@ -49,9 +49,9 @@ const map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90
                 
                 currentMarker = L.marker([location.lat, location.lng]).addTo(map)
                     .bindPopup(`
-                        <strong>Location: ${location.description}</strong><br>
-                        Roll Range: ${location.start_roll} - ${location.end_roll}<br>
-                        <img src="${location.image_url}" alt="${location.description}" style="width:100px; height:auto;">
+                        <strong>Location: ${location.building}</strong><br>
+                        ${location.floor}<br>
+                        ${location.room}<br>
                     `)
                     .openPopup();
 
