@@ -1791,42 +1791,7 @@
         "floor": "3rd floor",
         "room":"Room-403"
     },
-    {
-        "start_roll": "18126",
-        "end_roll": "18165",
-        "lat": 24.72449779219893, 
-        "lng": 90.43618378940363,
-        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
-        "floor": "1st floor",
-        "room":"Computer Lab-1"
-    },
-    {
-        "start_roll": "18166",
-        "end_roll": "18205",
-        "lat": 24.72449779219893, 
-        "lng": 90.43618378940363,
-        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
-        "floor": "2nd floor",
-        "room":"Computer Lab-2"
-    },
-    {
-        "start_roll": "18206",
-        "end_roll": "18255",
-        "lat": 24.72449779219893, 
-        "lng": 90.43618378940363,
-        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
-        "floor": "Third floor",
-        "room":"Room-402"
-    },
-    {
-        "start_roll": "18256",
-        "end_roll": "18275",
-        "lat": 24.72449779219893, 
-        "lng": 90.43618378940363,
-        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Nazmul Haque Bhaban)",
-        "floor": "Third floor",
-        "room":"Room-403"
-    },
+    
      {
         "start_roll": "18126",
         "end_roll": "18165",
