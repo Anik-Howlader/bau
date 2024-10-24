@@ -884,8 +884,8 @@
     {
         "start_roll": "14459",
         "end_roll": "14598",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+        "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Central Examination Hall"
@@ -893,8 +893,8 @@
     {
         "start_roll": "14599",
         "end_roll": "14693",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Tin Shed (North Side) Room No. 227"
@@ -902,8 +902,8 @@
     {
         "start_roll": "14694",
         "end_roll": "14788",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Tin Shed (North Side) Room No. 228"
@@ -911,8 +911,8 @@
     {
         "start_roll": "14789",
         "end_roll": "14883",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Tin Shed (North Side) Room No. 229"
@@ -920,8 +920,8 @@
     {
         "start_roll": "14884",
         "end_roll": "14978",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Tin Shed (North Side) Room No. 230"
@@ -929,8 +929,8 @@
     {
         "start_roll": "14979",
         "end_roll": "15003",
-       "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+        "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "2nd Floor",
         "room": "Undergraduate Lab-1, Room No. 302 Biochemistry & Molecular Biology Dept."
@@ -938,8 +938,8 @@
     {
         "start_roll": "15004",
         "end_roll": "15028",
-       "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+       "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "2nd Floor",
         "room": "Undergraduate Lab-2, Room No. 311 Biochemistry & Molecular Biology Dept."
@@ -947,8 +947,8 @@
     {
         "start_roll": "15029",
         "end_roll": "15053",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Undergraduate Lab-3, Room No. 218 Biochemistry & Molecular Biology Dept."
@@ -957,8 +957,8 @@
     {
         "start_roll": "15054",
         "end_roll": "15103",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Undergraduate Lab-4, Room No. 226 Biochemistry & Molecular Biology Dept."
@@ -966,8 +966,8 @@
     {
         "start_roll": "15104",
         "end_roll": "15138",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "M.S. Classroom, Room No. 225 Biochemistry & Molecular Biology Dept."
@@ -975,8 +975,8 @@
     {
         "start_roll": "15139",
         "end_roll": "15163",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Post Graduate Lab, Room No. 209 Agri-Chemistry Dept."
@@ -984,8 +984,8 @@
     {
         "start_roll": "15164",
         "end_roll": "15195",
-        "lat": 24.72214037423984, 
-        "lng": 90.44240854270849,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building": "Faculty of Agriculture Karim Bhaban",
         "floor": "1st Floor",
         "room": "Undergraduate Lab-1, Room No. 210 Agri-Chemistry Dept."
@@ -1326,8 +1326,8 @@
     {
         "start_roll": "13967",
         "end_roll": "14146",
-        "lat": 24.72218610675436, 
-        "lng": 90.44235995089373,
+        "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building":"Faculty of Agriculture, Karim Bhaban",
         "floor": "Ground floor",
         "room":"Central Examination Hall"
@@ -1335,8 +1335,8 @@
     {
         "start_roll": "14147",
         "end_roll": "14242",
-        "lat": 24.72218610675436, 
-        "lng": 90.44235995089373,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building":"Faculty of Agriculture, Karim Bhaban",
         "floor": "Ground floor",
         "room":"Gallary 124"
@@ -1344,8 +1344,8 @@
     {
         "start_roll": "14243",
         "end_roll": "14338",
-        "lat": 24.72218610675436, 
-        "lng": 90.44235995089373,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building":"Faculty of Agriculture, Karim Bhaban",
         "floor": "Ground floor",
         "room":"Gallary 125"
@@ -1353,8 +1353,8 @@
     {
         "start_roll": "14339",
         "end_roll": "14363",
-        "lat": 24.72218610675436, 
-        "lng": 90.44235995089373,
+         "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building":"Faculty of Agriculture, Karim Bhaban",
         "floor": "Ground floor",
         "room":"Undergraduate Lab-2, Room No-110, Agri-Chemistry Dept."
@@ -1362,8 +1362,8 @@
     {
         "start_roll": "14364",
         "end_roll": "14388",
-       "lat": 24.72218610675436, 
-        "lng": 90.44235995089373,
+        "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building":"Faculty of Agriculture, Karim Bhaban",
         "floor": "Ground floor",
         "room":"Undergraduate Lab-3, Room No-113, Agri-Chemistry Dept."
@@ -1371,8 +1371,8 @@
     {
         "start_roll": "14389",
         "end_roll": "14428",
-        "lat": 24.72218610675436, 
-        "lng": 90.44235995089373,
+        "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building":"Faculty of Agriculture, Karim Bhaban",
         "floor": "Ground floor",
         "room":"MS Classroom, Room No-119, Agri-Chemistry Dept."
@@ -1380,8 +1380,8 @@
     {
         "start_roll": "14429",
         "end_roll": "14458",
-        "lat": 24.72218610675436, 
-        "lng": 90.44235995089373,
+        "lat": 24.721985237853026, 
+        "lng": 90.44241374666203,
         "building":"Faculty of Agriculture, Karim Bhaban",
         "floor": "Ground floor",
         "room":"Lab-1, Dept. of Physics"
