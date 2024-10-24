@@ -1630,6 +1630,15 @@
         "room":"Lecture Gallery-1"
     },
     {
+        "start_roll": "17176",
+        "end_roll": "17275",
+        "lat": 24.724201934987875, 
+        "lng": 90.43589316305568,
+        "building":"Faculty of Agricultural Engineering and Technology, Faculty Building(Main Building)",
+        "floor": "Ground floor",
+        "room":"Lecture Gallery-2"
+    },
+    {
         "start_roll": "17276",
         "end_roll": "17325",
         "lat": 24.724201934987875, 
