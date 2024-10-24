@@ -103,8 +103,8 @@
     {
         "start_roll": "11116",
         "end_roll": "11195",
-        "lat": 24.723149375870953, 
-        "lng": 90.43841544284108,
+        "lat": 24.72493725136124, 
+        "lng": 90.43717928430947,
         "building": "Faculty of Vaterinary Science,Building-2",
         "floor": "2nd Floor",
         "room": "Pharmacology Gallery,Dept. of Pharmacology"
@@ -112,8 +112,8 @@
     {
         "start_roll": "11196",
         "end_roll": "11215",
-        "lat": 24.723149375870953, 
-        "lng": 90.43841544284108,
+        "lat": 24.72493725136124, 
+        "lng": 90.43717928430947,
         "building": "Faculty of Vaterinary Science,Building-2",
         "floor": "2nd Floor",
         "room": "Pharmacology Lab,Dept. of Pharmacology"
