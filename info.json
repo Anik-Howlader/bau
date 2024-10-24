@@ -748,8 +748,8 @@
     {
         "start_roll": "18636",
         "end_roll": "18675",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "Ground Floor",
         "room": "Room No. 1, Fisheries Biology & Genetics Laboratory"
@@ -757,8 +757,8 @@
     {
         "start_roll": "18676",
         "end_roll": "18695",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+         "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "Ground Floor",
         "room": "Room No. 2, Fisheries Biology & Genetics Laboratory"
@@ -766,8 +766,8 @@
     {
         "start_roll": "18696",
         "end_roll": "18795",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "Ground Floor",
         "room": "Room No. 4, Gallery"
@@ -775,8 +775,8 @@
     {
         "start_roll": "18796",
         "end_roll": "18858",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+         "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "Ground Floor",
         "room": "Room No. 5, Classroom"
@@ -784,8 +784,8 @@
     {
         "start_roll": "18859",
         "end_roll": "18921",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+         "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "Ground Floor",
         "room": "Room No. 6, Classroom"
@@ -793,8 +793,8 @@
     {
         "start_roll": "18922",
         "end_roll": "18951",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+         "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "Ground Floor",
         "room": "Room No. 9, Limnology Laboratory"
@@ -802,8 +802,8 @@
     {
         "start_roll": "18952",
         "end_roll": "18971",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 10, Fish Nutrition Laboratory"
@@ -811,8 +811,8 @@
     {
         "start_roll": "18972",
         "end_roll": "18991",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 11, Fish Processing & Quality Control Laboratory"
@@ -820,8 +820,8 @@
     {
         "start_roll": "18992",
         "end_roll": "19014",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+       "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 12, Ecology Laboratory"
@@ -829,8 +829,8 @@
     {
         "start_roll": "19015",
         "end_roll": "19077",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 13, Classroom"
@@ -838,8 +838,8 @@
     {
         "start_roll": "19078",
         "end_roll": "19102",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 15, Fish Pathology Laboratory"
@@ -848,8 +848,8 @@
     {
         "start_roll": "19103",
         "end_roll": "19132",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 16. National Professor Dr. A.K.M. Aminul Haque Memorial Fisheries Library"
@@ -857,8 +857,8 @@
     {
         "start_roll": "19133",
         "end_roll": "19152",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+        "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 17, Fisheries Microbiology Laboratory"
@@ -866,8 +866,8 @@
     {
         "start_roll": "19153",
         "end_roll": "19180",
-        "lat": 24.726329426836926, 
-        "lng": 90.43532936041721,
+         "lat": 24.726129796642713,
+        "lng":  90.43525352327086,
         "building": "Main Building, Faculty of Fisheries",
         "floor": "1st Floor",
         "room": "Room No. 18, Fishing Technology Laboratory"
