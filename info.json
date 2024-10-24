@@ -159,8 +159,8 @@
     {
         "start_roll": "15784",
         "end_roll": "15873",
-        "lat": 24.726137097049012, 
-        "lng": 90.43652719161355,
+         "lat": 24.72647309751208,
+        "lng":  90.43618839464716,
         "building": "Animal Husbandry Faculty Building (Quazi Fazlur Rahman Bhaban)",
         "floor": "Ground Floor",
         "room": "Room-108,Classroom Level-1"
@@ -169,8 +169,8 @@
     {
         "start_roll": "15874",
         "end_roll": "15979",
-        "lat": 24.726137097049012, 
-        "lng": 90.43652719161355,
+         "lat": 24.72647309751208,
+        "lng":  90.43618839464716,
         "building": "Animal Husbandry Faculty Building (Quazi Fazlur Rahman Bhaban",
         "floor": "2nd Floor",
         "room": "Room-307,Classroom"
@@ -178,8 +178,8 @@
     {
         "start_roll": "15980",
         "end_roll": "16085",
-       "lat": 24.726137097049012, 
-        "lng": 90.43652719161355,
+       "lat": 24.72647309751208,
+        "lng":  90.43618839464716,
         "building": "Animal Husbandry Faculty Building (Quazi Fazlur Rahman Bhaban",
         "floor": "3rd Floor",
         "room": "Room-408,Classroom"
@@ -1389,8 +1389,8 @@
     {
         "start_roll": "15196",
         "end_roll": "15220",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Lab-017/L(PS Lab)"
@@ -1398,8 +1398,8 @@
     {
         "start_roll": "15221",
         "end_roll": "15290",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Classroom-018/C"
@@ -1407,8 +1407,8 @@
     {
         "start_roll": "15291",
         "end_roll": "15360",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Classroom-019/C"
@@ -1416,8 +1416,8 @@
     {
         "start_roll": "15361",
         "end_roll": "15472",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Classroom-020/C (Gallary)"
@@ -1425,8 +1425,8 @@
     {
         "start_roll": "15473",
         "end_roll": "15497",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Lab-022/L, Animal Breeding Lab"
@@ -1434,8 +1434,8 @@
     {
         "start_roll": "15498",
         "end_roll": "15522",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+         "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Lab-021/L, Genetics Lab"
@@ -1443,8 +1443,8 @@
     {
         "start_roll": "15523",
         "end_roll": "15547",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Lab-023/L, DS Lab"
@@ -1452,8 +1452,8 @@
     {
         "start_roll": "15548",
         "end_roll": "15572",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "1st floor",
         "room":"Lab-122/L, AS Lab"
@@ -1461,8 +1461,8 @@
     {
         "start_roll": "15573",
         "end_roll": "15597",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+         "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Dairy Technology & Milk Processing Plant (West)"
@@ -1470,8 +1470,8 @@
     {
         "start_roll": "15598",
         "end_roll": "15617",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "Ground floor",
         "room":"Laboratory of Technology and Pilot Plant (West)"
@@ -1479,8 +1479,8 @@
     {
         "start_roll": "15618",
         "end_roll": "15657",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "1st floor",
         "room":"Classroom-119/C"
@@ -1488,8 +1488,8 @@
     {
         "start_roll": "15658",
         "end_roll": "15727",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "1st floor",
         "room":"Classroom-117/C"
@@ -1497,8 +1497,8 @@
     {
         "start_roll": "15728",
         "end_roll": "15753",
-        "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "1st floor",
         "room":"Lab-115/L, AN Lab"
@@ -1506,8 +1506,8 @@
     {
         "start_roll": "15754",
         "end_roll": "15783",
-       "lat": 24.726764019581726, 
-        "lng": 90.4361637206855,
+        "lat": 24.72646314577925, 
+        "lng": 90.43617086463624,
         "building":"Faculty of Animal Husbandry, Animal Husbandry Faculty Building",
         "floor": "1st floor",
         "room":"Kazi Fazlur Rahim Library"
