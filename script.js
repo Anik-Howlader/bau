@@ -55,20 +55,14 @@ let map = L.map('map', { zoomControl: false }).setView([24.723367492217395, 90.4
                         <b>Building: </b><strong> ${location.building}</strong><br>
                         <b>Floor: </b>${location.floor}<br>
                          <b>Room: </b>${location.room}<br>
-                        <button type="button" class="btn btn-primary btn-sm" style="padding-top:2px;"  id= "getDirectionsButton">Get Directions</button>
+                        <button type="button" class="btn btn-primary btn-sm" style="padding-top:2px;"  onclick="getDirections(location.lat, location.lng)">Get Directions</button>
                     `);
                    // Open the popup immediately after creating the marker
         currentMarker.openPopup();
                 
 
               
- // Event listener for the "Get Directions" button
-            currentMarker.on('popupopen', () => {
-                document.getElementById('getDirectionsButton').onclick = function () {
-                    getDirections(location.lat, location.lng);
-                };
-            });
-            
+
             });
         } else {
             alert('No locations found for this roll number.');
